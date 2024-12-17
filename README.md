@@ -10,7 +10,7 @@
 
 ## 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/sidratun-nur-samia" target="_blank">
+  <a href=" https://www.linkedin.com/in/snsamia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sidratun.samia@gmail.com" target="_blank">

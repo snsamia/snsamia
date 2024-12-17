@@ -6,15 +6,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=6A46D4&center=true&vCenter=true&width=450&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Passionate+about+AI+%26+NLP;Open+to+Collaboration+%26+Learning" />
 </p>
 
-<!-- Profile Image and Profile Views -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/snsamia/snsamia/refs/heads/main/image.webp" alt="profile_image" width="200" style="border-radius: 10px; border: 2px solid #ccc;" />
-</p>
+<!-- Split Layout: Left "About Me" Content + Right Profile Photo -->
+<table>
+  <tr>
+    <!-- Left: About Me -->
+    <td align="left" width="60%">
+      <h2>About Me</h2>
+      <ul>
+        <li>🎓 **MSc in Data Science** at **FAU Erlangen-Nürnberg**</li>
+        <li>💻 Passionate about **Machine Learning, NLP, and Data Engineering**</li>
+        <li>🚀 Skilled in **Python, TensorFlow, PyTorch, and Power BI**</li>
+        <li>🌱 Exploring **Generative AI** and **Large Language Models (LLMs)**</li>
+        <li>🤝 Open to collaborating on **data-driven projects** and innovative solutions.</li>
+      </ul>
+    </td>
 
-<p align="center">
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20Views&color=6A46D4&style=flat" alt="Profile Views" />
-</p>
+    <!-- Right: Profile Photo -->
+    <td align="center" width="40%">
+      <img src="https://raw.githubusercontent.com/snsamia/snsamia/refs/heads/main/image.webp" 
+           alt="profile_image" width="250" style="border-radius: 10px; border: 2px solid #ccc;" />
+      <br><br>
+      <!-- Profile Views -->
+      <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20Views&color=6A46D4&style=flat" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -105,18 +121,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsamia&layout=compact&theme=light" alt="Top Languages" />
 </p>
-
----
-
-## 🚀 **About Me**
-- 🎓 **MSc in Data Science** at **FAU Erlangen-Nürnberg**  
-- 🧠 Skilled in **Machine Learning, NLP, Python, and ETL Pipelines**  
-- 📊 Focused on **AI Solutions, Sentiment Analysis, and Data Engineering**  
-- 🌱 Currently exploring **Generative AI and Large Language Models (LLMs)**  
-- 💻 **Key Projects**:  
-   - 📈 **Nuclear Energy Sentiment Analysis** (ETL + LSTM)  
-   - 🌍 **Energy Transition Analysis** using Pandas and Plotly  
-   - 🏥 **Healthcare Analytics Dashboards** using Power BI  
 
 ---
 

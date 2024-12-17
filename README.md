@@ -6,32 +6,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=6A46D4&center=true&vCenter=true&width=450&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Passionate+about+AI+%26+NLP;Open+to+Collaboration+%26+Learning" />
 </p>
 
-<!-- Split Layout: Left "About Me" Content + Right Profile Photo -->
-<table>
-  <tr>
-    <!-- Left: About Me -->
-    <td align="left" width="60%">
-      <h2>About Me</h2>
-      <ul>
-        <li>🎓 **MSc in Data Science** at **FAU Erlangen-Nürnberg**</li>
-        <li>💻 Passionate about **Machine Learning, NLP, and Data Engineering**</li>
-        <li>🚀 Skilled in **Python, TensorFlow, PyTorch, and Power BI**</li>
-        <li>🌱 Exploring **Generative AI** and **Large Language Models (LLMs)**</li>
-        <li>🤝 Open to collaborating on **data-driven projects** and innovative solutions.</li>
-      </ul>
-    </td>
+---
 
-    <!-- Right: Profile Photo -->
-    <td align="center" width="40%">
-      <img src="https://raw.githubusercontent.com/snsamia/snsamia/main/image.webp" 
-           alt="profile_image" width="250" style="border-radius: 10px; border: 2px solid #ccc;" />
-      <br><br>
-      <!-- Profile Views -->
-      <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20Views&color=6A46D4&style=flat" 
-           alt="Profile Views" />
-    </td>
-  </tr>
-</table>
+<!-- Flexbox Layout -->
+<div style="display: flex; align-items: center; justify-content: center;">
+
+  <!-- Left: About Me -->
+  <div style="flex: 1; padding: 10px;">
+    <h2>About Me</h2>
+    <ul>
+      <li>🎓 **MSc in Data Science** at **FAU Erlangen-Nürnberg**</li>
+      <li>💻 Passionate about **Machine Learning, NLP, and Data Engineering**</li>
+      <li>🚀 Skilled in **Python, TensorFlow, PyTorch, and Power BI**</li>
+      <li>🌱 Exploring **Generative AI** and **Large Language Models (LLMs)**</li>
+      <li>🤝 Open to collaborating on **data-driven projects** and innovative solutions.</li>
+    </ul>
+  </div>
+
+  <!-- Right: Profile Image -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://raw.githubusercontent.com/snsamia/snsamia/main/image.webp" 
+         alt="profile_image" width="250" style="border-radius: 10px; border: 2px solid #ccc;" />
+    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20Views&color=6A46D4&style=flat" alt="Profile Views" />
+  </div>
+</div>
 
 ---
 
@@ -52,64 +51,26 @@
 
 ## 🛠️ **Languages and Tools**
 
-<table align="center">
-  <tr>
-    <!-- Python -->
-    <td align="center" width="100">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-      </a>
-    </td>
-    <!-- R -->
-    <td align="center" width="100">
-      <a href="https://www.r-project.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R"/>
-      </a>
-    </td>
-    <!-- MySQL -->
-    <td align="center" width="100">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-      </a>
-    </td>
-    <!-- TensorFlow -->
-    <td align="center" width="100">
-      <a href="https://www.tensorflow.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
-      </a>
-    </td>
-    <!-- PyTorch -->
-    <td align="center" width="100">
-      <a href="https://pytorch.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
-      </a>
-    </td>
-    <!-- Git -->
-    <td align="center" width="100">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-      </a>
-    </td>
-    <!-- Matplotlib -->
-    <td align="center" width="100">
-      <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" alt="Matplotlib"/>
-      </a>
-    </td>
-    <!-- Power BI -->
-    <td align="center" width="100">
-      <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" height="50" alt="Power BI"/>
-      </a>
-    </td>
-    <!-- Tableau -->
-    <td align="center" width="100">
-      <a href="https://www.tableau.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <!-- R -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R" />
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" alt="Matplotlib" />
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" height="50" alt="Power BI" />
+  <!-- Tableau -->
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau" />
+</p>
 
 ---
 

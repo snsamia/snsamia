@@ -53,7 +53,7 @@
   </a>
   <!-- Apache Spark -->
   <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Spark" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="50" height="50"/>
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
@@ -65,7 +65,7 @@
   </a>
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Seaborn_logo.svg" alt="Seaborn" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Seaborn_logo.svg" alt="Seaborn" width="50" height="50"/>
   </a>
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank">

@@ -8,11 +8,20 @@
 
 ---
 
-<!-- Flexbox Layout -->
-<div style="display: flex; align-items: center; justify-content: center;">
+<!-- Flexbox Alternative Layout -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-  <!-- Left: About Me -->
-  <div style="flex: 1; padding: 10px;">
+  <!-- Left: Profile Image -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://raw.githubusercontent.com/snsamia/snsamia/main/image.webp" 
+         alt="profile_image" width="300" style="border-radius: 10px; border: 2px solid #ccc;" />
+    <br><br>
+    <!-- Profile Views -->
+    <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20Views&color=6A46D4&style=flat" alt="Profile Views" />
+  </div>
+
+  <!-- Right: About Me -->
+  <div style="flex: 1; text-align: left;">
     <h2>About Me</h2>
     <ul>
       <li>🎓 **MSc in Data Science** at **FAU Erlangen-Nürnberg**</li>
@@ -23,13 +32,6 @@
     </ul>
   </div>
 
-  <!-- Right: Profile Image -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://raw.githubusercontent.com/snsamia/snsamia/main/image.webp" 
-         alt="profile_image" width="250" style="border-radius: 10px; border: 2px solid #ccc;" />
-    <br><br>
-    <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20Views&color=6A46D4&style=flat" alt="Profile Views" />
-  </div>
 </div>
 
 ---

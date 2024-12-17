@@ -6,10 +6,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=6A46D4&center=true&vCenter=true&width=450&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Passionate+about+AI+%26+NLP;Open+to+Collaboration+%26+Learning" />
 </p>
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/snsamia/snsamia/refs/heads/main/image.webp" alt="profile_image" width="150" height="150" style="border-radius: 50%; border: 2px solid #ccc;" />
-</p>
+<!-- Split Content: Left Text + Right Image -->
+<table>
+  <tr>
+    <!-- Left Content -->
+    <td align="left" width="60%">
+      <h2>About Me</h2>
+      <ul>
+        <li>🎓 <b>MSc in Data Science</b> at <b>FAU Erlangen-Nürnberg</b></li>
+        <li>💻 Passionate about <b>Machine Learning, NLP</b> and <b>Data Engineering</b></li>
+        <li>🚀 Skilled in <b>Python, TensorFlow, PyTorch, and Power BI</b></li>
+        <li>🌱 Exploring <b>Generative AI</b> and <b>Large Language Models (LLMs)</b></li>
+        <li>🤝 Open to collaborating on data-driven projects and innovative solutions.</li>
+      </ul>
+    </td>
+    
+    <!-- Right Image -->
+    <td align="center" width="40%">
+      <img src="https://github.com/your-username/your-repo-name/raw/main/assets/image.webp" alt="profile_image" width="400" style="border-radius: 10px; border: 2px solid #ccc;" />
+    </td>
+  </tr>
+</table>
 
 ---
 

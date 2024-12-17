@@ -8,7 +8,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="profile_image" width="150" height="150" style="border-radius: 50%; border: 2px solid #ccc;" />
+  <img src="https://raw.githubusercontent.com/snsamia/snsamia/refs/heads/main/image.webp" alt="profile_image" width="150" height="150" style="border-radius: 50%; border: 2px solid #ccc;" />
 </p>
 
 ---

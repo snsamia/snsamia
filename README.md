@@ -71,7 +71,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50" style="display: inline-flex; align-items: center;"/>
   </a>
 </p>
-
 ---
 
 ## 📊 **GitHub Stats**

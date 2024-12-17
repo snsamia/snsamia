@@ -6,27 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=6A46D4&center=true&vCenter=true&width=450&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Passionate+about+AI+%26+NLP;Open+to+Collaboration+%26+Learning" />
 </p>
 
-<!-- Split Content: Left Text + Right Image -->
-<table>
-  <tr>
-    <!-- Left Content -->
-    <td align="left" width="60%">
-      <h2>About Me</h2>
-      <ul>
-        <li>🎓 <b>MSc in Data Science</b> at <b>FAU Erlangen-Nürnberg</b></li>
-        <li>💻 Passionate about <b>Machine Learning, NLP</b> and <b>Data Engineering</b></li>
-        <li>🚀 Skilled in <b>Python, TensorFlow, PyTorch, and Power BI</b></li>
-        <li>🌱 Exploring <b>Generative AI</b> and <b>Large Language Models (LLMs)</b></li>
-        <li>🤝 Open to collaborating on data-driven projects and innovative solutions.</li>
-      </ul>
-    </td>
-    
-    <!-- Right Image -->
-    <td align="center" width="40%">
-      <img src="https://github.com/your-username/your-repo-name/raw/main/assets/image.webp" alt="profile_image" width="400" style="border-radius: 10px; border: 2px solid #ccc;" />
-    </td>
-  </tr>
-</table>
+<!-- Profile Image and Profile Views -->
+<p align="center">
+  <img src="https://github.com/your-username/your-repo-name/raw/main/assets/image.webp" alt="profile_image" width="200" style="border-radius: 10px; border: 2px solid #ccc;" />
+</p>
+
+<p align="center">
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20Views&color=6A46D4&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -43,8 +31,8 @@
   </a>
 </p>
 
-
 ---
+
 ## 🛠️ **Languages and Tools**
 
 <table align="center">
@@ -136,7 +124,3 @@
 - 🤝 Open to data science projects, AI innovation, and open-source contributions.  
 - 💌 **Reach out via Email**: [sidratun.samia@gmail.com](mailto:sidratun.samia@gmail.com)  
 - 🔗 **Connect on LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/sidratun-nur-samia)  
-
----
-
-

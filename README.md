@@ -1,11 +1,39 @@
 <h1 align="center">Hi 👋, I'm Sidratun Nur Samia</h1>
 <h3 align="center">A Data Science enthusiast passionate about leveraging data for impactful solutions.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20views&color=0e75b6&style=flat" alt="snsamia" />
+---
+
+## 🌐 Connect with Me:
+<p align="left">
+<a href="https://twitter.com/your_twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sidratun-nur-samia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/your_facebook" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/your_instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ---
+
+## 🛠 Languages and Tools:
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="spark" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+---
+
+## 📊 My GitHub Stats:
+<p align="left">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=snsamia&show_icons=true&theme=light" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=snsamia&theme=light" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsamia&layout=compact&theme=light" alt="Top Languages" />
+</p>
 
 <h2 align="left">About Me 📝</h2>
 

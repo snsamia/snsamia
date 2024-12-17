@@ -11,10 +11,6 @@
   <img src="https://github.com/your-username/your-repo-name/raw/main/assets/image.webp" alt="profile_image" width="200" style="border-radius: 10px; border: 2px solid #ccc;" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/profile_image.png" 
-       alt="profile_image" width="200" style="border-radius: 10px; border: 2px solid #ccc;" />
-</p>
 
 ---
 

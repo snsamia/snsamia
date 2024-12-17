@@ -23,11 +23,12 @@
 
     <!-- Right: Profile Photo -->
     <td align="center" width="40%">
-      <img src="https://raw.githubusercontent.com/snsamia/snsamia/refs/heads/main/image.webp" 
+      <img src="https://raw.githubusercontent.com/snsamia/snsamia/main/image.webp" 
            alt="profile_image" width="250" style="border-radius: 10px; border: 2px solid #ccc;" />
       <br><br>
       <!-- Profile Views -->
-      <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20Views&color=6A46D4&style=flat" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20Views&color=6A46D4&style=flat" 
+           alt="Profile Views" />
     </td>
   </tr>
 </table>
@@ -128,3 +129,4 @@
 - 🤝 Open to data science projects, AI innovation, and open-source contributions.  
 - 💌 **Reach out via Email**: [sidratun.samia@gmail.com](mailto:sidratun.samia@gmail.com)  
 - 🔗 **Connect on LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/sidratun-nur-samia)  
+

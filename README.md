@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20Views&color=6A46D4&style=flat" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/profile_image.png" 
+       alt="profile_image" width="200" style="border-radius: 10px; border: 2px solid #ccc;" />
 </p>
 
 ---

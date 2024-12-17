@@ -64,10 +64,7 @@
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
   </a>
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Seaborn_logo.svg" alt="Seaborn" width="50" height="50"/>
-</a>
+
 
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank">

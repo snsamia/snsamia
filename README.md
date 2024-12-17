@@ -26,43 +26,52 @@
 
 ## 🛠️ **Languages and Tools**
 <p align="center">
+  <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
+  <!-- R -->
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/>
   </a>
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   </a>
+  <!-- TensorFlow -->
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
   </a>
+  <!-- PyTorch -->
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
   </a>
+  <!-- Apache Spark -->
   <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Spark" width="50" height="50"/>
   </a>
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  </a>
+  <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
   </a>
+  <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/seaborn.png" alt="Seaborn" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Seaborn_logo.svg" alt="Seaborn" width="50" height="50"/>
   </a>
+  <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
   </a>
+  <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
   </a>
 </p>
+
 
 
 ---

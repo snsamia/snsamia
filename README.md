@@ -8,9 +8,13 @@
 
 <!-- Profile Image and Profile Views -->
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/raw/main/assets/image.webp" alt="profile_image" width="200" style="border-radius: 10px; border: 2px solid #ccc;" />
+  <img src="https://raw.githubusercontent.com/snsamia/snsamia/refs/heads/main/image.webp" alt="profile_image" width="200" style="border-radius: 10px; border: 2px solid #ccc;" />
 </p>
 
+<p align="center">
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=snsamia&label=Profile%20Views&color=6A46D4&style=flat" alt="Profile Views" />
+</p>
 
 ---
 

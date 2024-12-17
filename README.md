@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sidratun Nur Samia</h1>
 <h3 align="center">🌟 Data Science Enthusiast | MSc Student at FAU 🌟</h3>
 
-<!-- Dynamic Profile Image -->
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=6A46D4&center=true&vCenter=true&width=450&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Passionate+about+AI+%26+NLP;Open+to+Collaboration+%26+Learning" />
+</p>
+
+<!-- Profile Image -->
 <p align="center">
   <img src="https://via.placeholder.com/150" alt="profile_image" width="150" height="150" style="border-radius: 50%; border: 2px solid #ccc;" />
 </p>
@@ -107,7 +112,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=6A46D4&center=true&vCenter=true&width=450&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Passionate+about+AI+%26+NLP;Open+to+Collaboration+%26+Learning" />
-</p>
 

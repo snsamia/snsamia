@@ -53,8 +53,9 @@
   </a>
   <!-- Apache Spark -->
   <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="50" height="50"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="50" height="50"/>
+</a>
+
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
@@ -65,8 +66,9 @@
   </a>
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Seaborn_logo.svg" alt="Seaborn" width="50" height="50"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Seaborn_logo.svg" alt="Seaborn" width="50" height="50"/>
+</a>
+
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>

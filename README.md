@@ -89,5 +89,6 @@
 ## 🎯 **Let's Collaborate**
 - 🤝 Open to data science projects, AI innovation, and open-source contributions.  
 - 💌 **Reach out via Email**: [sidratun.samia@gmail.com](mailto:sidratun.samia@gmail.com)  
-- 🔗 **Connect on LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/sidratun-nur-samia)
+- 🔗 **Connect on LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/snsamia/)
+
 
